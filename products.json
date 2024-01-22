@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Arduino Lilypad",
+    "price": 100,
+    "category": "Arduino Card",
+    "image": "/images/arduino-lilypad.jpg"
+  },
+
+  {
+    "name": "Breadboard",
+    "price": 50,
+    "category": "Cable",
+    "image": "/images/breadboard.jpg"
+  },
+
+  {
+    "name": "Servo Motor",
+    "price": 30,
+    "category": "Motor",
+    "image": "/images/servo-motor.jpg"
+  },
+  {
+    "name": "Color Sensor",
+    "price": 40,
+    "category": "Sensor",
+    "image": "/images/color-sensor.jpg"
+  },
+  {
+    "name": "Flex Sensor",
+    "price": 45,
+    "category": "Sensor",
+    "image": "/images/flex-sensor.jpg"
+  },
+  {
+    "name": "Jumper Wires",
+    "price": 38,
+    "category": "Cable",
+    "image": "/images/jumper-wires.jpg"
+  },
+  {
+    "name": "Arduino Nano",
+    "price": 75,
+    "category": "Arduino Card",
+    "image": "/images/arduino-nano.jpg"
+  },
+  {
+    "name": "Human Body Sensor",
+    "price": 200,
+    "category": "Sensor",
+    "image": "/images/human-body-sensor.jpg"
+  },
+  {
+    "name": "IR Sensor (Transmissive Type)",
+    "price": 80,
+    "category": "Sensor",
+    "image": "/images/ir-sensor-(transmissive-type).jpg"
+  },
+  {
+    "name": "IR Sensor",
+    "price": 130,
+    "category": "Sensor",
+    "image": "/images/ir-sensor.jpg"
+  },
+  {
+    "name": "Arduino UNO",
+    "price": 78,
+    "category": "Arduino Card",
+    "image": "/images/arduino-uno.jpg"
+  },
+  {
+    "name": "Light Sensor",
+    "price": 300,
+    "category": "Sensor",
+    "image": "/images/light-sensor.jpg"
+  },
+  {
+    "name": "Smoke",
+    "price": 45,
+    "category": "Sensor",
+    "image": "/images/smoke.jpg"
+  },
+  {
+    "name": "USB Cable",
+    "price": 75,
+    "category": "Cable",
+    "image": "/images/usb-cable.jpg"
+  },
+  {
+    "name": "Temperatue_Humidity Sensor",
+    "price": 250,
+    "category": "Sensor",
+    "image": "/images/temperatue_humidity-sensor.jpg"
+  },
+  {
+    "name": "Ultrasonic Sensor",
+    "price": 100,
+    "category": "Sensor",
+    "image": "/images/ultrasonic-sensor.jpg"
+  },
+  {
+    "name": "Water Flow Sensor",
+    "price": 250,
+    "category": "Sensor",
+    "image": "/images/water-flow-sensor.jpg"
+  }
+]
